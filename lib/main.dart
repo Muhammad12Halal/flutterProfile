@@ -176,7 +176,7 @@ class _DatafromAPIState extends State<DatafromAPI> {
                                                   snapshot.data![i].name,
                                                   softWrap: true,
                                                   style: const TextStyle(
-                                                  fontSize: 16,
+                                                  fontSize: 14,
                                                   fontFamily: 'Raleway',
                                                   fontWeight: FontWeight.bold,
                                                   height: 1.5,
@@ -189,7 +189,7 @@ class _DatafromAPIState extends State<DatafromAPI> {
                                                   snapshot.data![i].email,
                                                   softWrap: true,
                                                   style: const TextStyle(
-                                                  fontSize: 14,
+                                                  fontSize: 12,
                                                   fontFamily: 'Roboto',
                                                   height: 1.5,
                                                   letterSpacing: 1.0,
@@ -202,7 +202,7 @@ class _DatafromAPIState extends State<DatafromAPI> {
                                                   snapshot.data![i].username,
                                                   softWrap: true,
                                                   style: const TextStyle(
-                                                  fontSize: 8,
+                                                  fontSize: 10,
                                                   fontFamily: 'Raleway',
                                                   height: 1.5,
                                                   letterSpacing: 1.0,
